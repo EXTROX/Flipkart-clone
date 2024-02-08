@@ -1,0 +1,25 @@
+.carousel-control-prev{
+  /* background-color: none; */
+  width: 70px;
+}
+
+.carousel-control-next{
+  /* background-color: none; */
+  width: 70px;
+}
+
+.carousel-control-prev-icon{
+  width: 40px; /* Set the desired width */
+  height: 88px; /* Set the desired height */
+  background-color: rgb(211, 0, 0); /* Set the background color */
+  border: none; /* Remove the border */
+  outline: none; /* Remove the default focus outline */
+}
+
+.carousel-control-next-icon{
+  width: 40px; /* Set the desired width */
+  height: 88px; /* Set the desired height */
+  background-color: rgb(211, 0, 0); /* Set the background color */
+  border: none; /* Remove the border */
+  outline: none; /* Remove the default focus outline */
+}

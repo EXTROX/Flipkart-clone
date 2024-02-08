@@ -1,0 +1,42 @@
+.navbar-brand{
+  padding-left: 80px;
+}
+
+.d-flex{
+  padding-left: 20px;
+  width: 50%;
+}
+
+.fa-magnifying-glass{
+  padding-top: 10px;
+  padding-right: 5px;
+  font-size:larger;
+}
+
+.fa-magnifying-glass:hover{
+  cursor: pointer;
+}
+
+/* .form-control{
+ width: 100%;
+} */
+
+.hover-blue {
+  background-color: white; /* Set initial background color */
+  color: black; /* Set initial text color */
+  transition: background-color 0.3s, color 0.3s; /* Add transition for smooth color change */
+}
+
+.custum-hover:hover {
+  background-color: #1c41d6; /* Change background color on hover */
+  color: white; /*  Change text color on hover */
+  border-radius: 15px;
+}
+
+.signup{
+  color: #1c41d6;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
